@@ -31,5 +31,9 @@
  - ### SMOTEENN Combination Sampling
  
  
+![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/71282697/106301167-3dbf2a00-620c-11eb-8373-4d49d683f8b2.png)
+
+
+ - ### 
 
 ## Summary
