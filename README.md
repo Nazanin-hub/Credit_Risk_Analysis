@@ -11,6 +11,12 @@
 
  - ### Naive Random Oversampling
  
+ ![Naive Random Oversampling](https://user-images.githubusercontent.com/71282697/106300390-4fec9880-620b-11eb-920d-eff4fc9d63ff.png)
+ 
+ 
+ 
+ - ### SMOTE Oversampling
+ 
  
 
 ## Summary
