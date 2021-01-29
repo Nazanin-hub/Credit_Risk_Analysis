@@ -12,7 +12,7 @@
  - ### Naive Random Oversampling
  
  
- ![Naive Random Oversampling](https://user-images.githubusercontent.com/71282697/106300390-4fec9880-620b-11eb-920d-eff4fc9d63ff.png)
+ ![Naive Random Oversampling](https://user-images.githubusercontent.com/71282697/106302282-9b07ab00-620d-11eb-9d76-0a43fd040c49.png)
  
  
  
