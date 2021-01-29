@@ -36,7 +36,12 @@
 
  - ### Balanced Random Forest Classifier Ensemble 
  
+ ![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/71282697/106301671-d655aa00-620c-11eb-8749-d4eb6a0b43ae.png)
+ 
  
  - ### Easy Ensemble AdaBoost Classifier Ensemble 
+ 
+ 
+ 
 
 ## Summary
