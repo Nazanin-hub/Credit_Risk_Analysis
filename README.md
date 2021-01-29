@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Assist the lead data scientist who is working in the Fast Lending company to predict credit card risk using several machine learning algorithms. I used the following algorithms. Then, I evaluated the performance of these models to see how well the models predict data.
+Assist the lead data scientist who is working in the Fast Lending company to predict credit card risk using several machine learning algorithms. I used the following algorithms to evaluate models and predict credit risk. Then, I evaluated the performance of these models to see how well the models predict data.
 
  - The oversampling RandomOverSampler and SMOTE algorithms
  - The undersampling ClusterCentroids algorithm
