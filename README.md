@@ -11,17 +11,24 @@
 
  - ### Naive Random Oversampling
  
+ 
  ![Naive Random Oversampling](https://user-images.githubusercontent.com/71282697/106300390-4fec9880-620b-11eb-920d-eff4fc9d63ff.png)
  
  
  
  - ### SMOTE Oversampling
  
+ 
  ![SMOTE Oversampling](https://user-images.githubusercontent.com/71282697/106300565-82969100-620b-11eb-84b5-ede1c38e862a.png)
  
  
  
  - ### Cluster Centroids Undersampling 
+ 
+ ![Undersampling](https://user-images.githubusercontent.com/71282697/106300905-e456fb00-620b-11eb-9290-cdf98a0b6d9d.png)
+ 
+ 
+ - ### SMOTEENN Combination Sampling
  
  
 
