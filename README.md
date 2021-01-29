@@ -2,6 +2,14 @@
 
 ## Project Overview
 
+Assist the lead data scientist who is working in the Fast Lending company to use several machine learning algorithms to predict risk. I used the following algorithms. Then, I evaluated the performance of these models to see how well the models predict data.
+
+ - The oversampling RandomOverSampler and SMOTE algorithms
+ - The undersampling ClusterCentroids algorithm
+ - Combinatorial approach of over- and undersampling models: The SMOTEENN algorithm
+ - Ensemble Classifiers: BalancedRandomForestClassifier and EasyEnsembleClassifier algorithms
+
+
 ## Rescources
 
  - Data Source: LoanStats_2019Q1.csv
