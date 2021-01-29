@@ -17,6 +17,12 @@
  
  - ### SMOTE Oversampling
  
+ ![SMOTE Oversampling](https://user-images.githubusercontent.com/71282697/106300565-82969100-620b-11eb-84b5-ede1c38e862a.png)
+ 
+ 
+ 
+ - ### Cluster Centroids Undersampling 
+ 
  
 
 ## Summary
