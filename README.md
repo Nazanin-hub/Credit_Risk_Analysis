@@ -34,14 +34,14 @@
 ![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/71282697/106301167-3dbf2a00-620c-11eb-8373-4d49d683f8b2.png)
 
 
- - ### Balanced Random Forest Classifier Ensemble 
+ - ### Balanced Random Forest Classifier 
  
  ![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/71282697/106301671-d655aa00-620c-11eb-8749-d4eb6a0b43ae.png)
  
  
- - ### Easy Ensemble AdaBoost Classifier Ensemble 
+ - ### Easy Ensemble AdaBoost Classifier 
  
- 
+ ![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/71282697/106302047-49f7b700-620d-11eb-8e2c-d8cb91812bcc.png)
  
 
 ## Summary
