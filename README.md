@@ -71,8 +71,7 @@ Assist the lead data scientist who is working in the Fast Lending company to pre
 
 ## Summary
 
-Based on the above results, Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier are more accurate than other algorithms. 
-
+Based on the performance of these machine learning algorithms, the best model in predicting loans risks would be the model with high accuaracy and a good balance of recall and precision score. As the above results shows, Easy Ensemble AdaBoost Classifier has the highest accuacy, overall precision and recall scores. It meanes this model is more accurate and it has the most true positives. So, I would recoomend Easy Ensemble AdaBoost Classifier model to use for predicting high risk loans.
 
 
 
