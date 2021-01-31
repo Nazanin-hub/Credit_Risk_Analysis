@@ -13,7 +13,7 @@ Assist the lead data scientist who is working in the Fast Lending company to pre
 ## Rescources
 
  - Data Source: LoanStats_2019Q1.csv
- - Software: Python 3.8.0, Anaconda Navigator 1.9.12, Jupyter Notebook 6.0.3
+ - Software: Python 3.8.3, Anaconda Navigator 1.9.6, Jupyter Notebook 6.0.3
 
 ## Results
 
