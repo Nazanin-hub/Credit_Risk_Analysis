@@ -33,7 +33,7 @@ Assist the lead data scientist who is working in the Fast Lending company to pre
  ![SMOTE Oversampling](https://user-images.githubusercontent.com/71282697/106300565-82969100-620b-11eb-84b5-ede1c38e862a.png)
  
    - The accuracy score is 66%.
-   - The overall precision score is 99% and the overall recall score is 68%. The precision score for high-risk loans is 1% that indicates a large number of false positives.
+   - The overall precision score is 99% and the overall recall score is 68%. The precision score for high-risk loans is 1% that indicates a large number of false positives
  
  
  - ### Cluster Centroids Undersampling 
